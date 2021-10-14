@@ -1,2 +1,5 @@
 node_modules
 .env
+
+# pub sub credential data
+*sub.json
